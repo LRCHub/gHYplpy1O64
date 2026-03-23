@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Love's Gonna Make It Alright",
+  "base_artist": "George Strait",
+  "createdAt": "2026-03-23T15:47:47.807003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love's Gonna Make It Alright",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Love's_Gonna_Make_It_Alright_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love's Gonna Make It Alright",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Love's_Gonna_Make_It_Alright_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love's Gonna Make It Alright",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Love's_Gonna_Make_It_Alright_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love's Gonna Make It Alright",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_Love's_Gonna_Make_It_Alright_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love’s Gonna Make It Alright",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_Love’s_Gonna_Make_It_Alright_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love's Gonna Make It Alright",
+      "artist": "Strait, George [US]",
+      "has_synced": true,
+      "path": "select/06_Love's_Gonna_Make_It_Alright_Strait,_George_[US].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love's Gonna Make It Alright (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/07_Love's_Gonna_Make_It_Alright_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love's Gonna Make It Alright",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_Love's_Gonna_Make_It_Alright_George_Strait.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love's Gonna Make It Alright",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/pl_01_Love's_Gonna_Make_It_Alright_George_Strait.txt"
+    }
+  ]
+}

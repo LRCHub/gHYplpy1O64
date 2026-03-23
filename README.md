@@ -1,0 +1,34 @@
+# George Strait – Love's Gonna Make It Alright
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:19.72] Girl, you had one of those days
+[00:24.27] Seems like they been goin' around
+[00:28.39] You're a long way from bein' where you want to be
+[00:37.02] When the world isn't goin' your way
+[00:41.21] Whatever bad luck is gettin' you down
+[00:45.75] Honey, I'll be right here for you with open arms
+[00:50.70] You can run to me
+[00:52.85] Baby, love's gonna make it, love's gonna make it alright (alright, alright)
+[01:01.52] Baby, love's gonna make it, love's gonna make it alright
+[01:08.35] Tonight, tonight, tonight
+[01:20.35] We can go out and paint the town
+[01:24.85] We can dance your cares away
+[01:28.90] We can watch 'em all fall out on the floor
+[01:37.52] And if you want to we can close 'em down
+[01:42.10] And we can leave whenever you say
+[01:46.20] I'll chase you down the hallway
+[01:48.86] Watch the sun come up behind our bedroom door
+[01:53.38] Baby, love's gonna make it, love's gonna make it alright (alright, alright)
+[02:01.93] Baby, love's gonna make it, love's gonna make it alright
+[02:08.80] Tonight, tonight, tonight
+[02:12.73] That's the good thing, girl, about me and you
+[02:21.31] There ain't nothing that lovin' can't get us through
+[02:45.11] Baby, love's gonna make it, love's gonna make it alright (alright, alright)
+[02:53.97] Baby, love's gonna make it, love's gonna make it alright
+[03:02.34] Baby, love's gonna make it, love's gonna make it alright (alright, alright)
+[03:11.28] Baby, love's gonna make it, love's gonna make it alright
+[03:17.79] Tonight, tonight, tonight
+[03:26.47] Tonight, tonight, tonight
+```
